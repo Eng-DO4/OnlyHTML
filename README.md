@@ -1,2 +1,2 @@
 # OnlyHTML
-this is a simple project on coursera to make a single unstyled HTML page
+this is a simple project on coursera to make a single unstyled HTML page.
